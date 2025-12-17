@@ -50,7 +50,7 @@ Setiap perubahan data (tambah atau hapus) dicatat ke dalam **stack undo**, sehin
 ```
 /
 ├─ 124240092_LatihanResponsi.cpp        # Program utama
-└─ README.md       # Dokumentasi
+└─ README.md                            # Dokumentasi
 ```
 
 ### Struktur Struct
