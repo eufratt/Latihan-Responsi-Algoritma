@@ -49,7 +49,7 @@ Setiap perubahan data (tambah atau hapus) dicatat ke dalam **stack undo**, sehin
 
 ```
 /
-├─ 124240092.cpp        # Program utama
+├─ 124240092_LatihanResponsi.cpp        # Program utama
 └─ README.md       # Dokumentasi
 ```
 
